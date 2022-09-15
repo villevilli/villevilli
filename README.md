@@ -1,5 +1,5 @@
 - I am Ville, a current student of Otaniemi high school
-- Some experience with front end web develpoment
+- Experience with front end web develpoment
 
 <!---
 villevilli/villevilli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
