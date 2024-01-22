@@ -15,5 +15,7 @@ The project contains:
 ## Previous Projects
 ### [Nicemc page](https://github.com/villevilli/nicemc-page)
 A simple markdown blogging platform created with svelte using mongodb as its database.  
-### [foo-os](https://github.com/villevilli/fooos)
-A small hobbyist os written in rust for the x86 architechture
+### [rost](https://github.com/villevilli/rost)
+A small hobby os written in rust for the x86 architechture
+### [av-bingo](https://githun.com/villevilli/av-bingo)
+A client side bingo engine for the web, written in pure js.
