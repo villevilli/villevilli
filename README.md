@@ -1,6 +1,6 @@
 # Ville Kujala
 Hello
-I am a hobbyist programmer and an avid scout.  
+I am a hobbyist programmer
 I'm currently studying at Otaniemi upper secondary school focusing on stem subjects. 
 
 ## Current Projects
@@ -17,5 +17,7 @@ The project contains:
 A simple markdown blogging platform created with svelte using mongodb as its database.  
 ### [rost](https://github.com/villevilli/rost)
 A small hobby os written in rust for the x86 architechture
-### [av-bingo](https://githun.com/villevilli/av-bingo)
+### [av-bingo](https://github.com/villevilli/av-bingo)
 A client side bingo engine for the web, written in pure js.
+### [pooppi-export](https://github.com/villevilli/pooppi-export)
+A tiny rust tool for reading data from a minecraft server into csv and sql
