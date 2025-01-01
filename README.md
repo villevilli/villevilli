@@ -4,15 +4,19 @@ I am a hobbyist programmer
 I'm currently studying at Otaniemi upper secondary school focusing on stem subjects. 
 
 ## Current Projects
+### [N-Body](https://github.com/villevilli/n-body)
+A bevy and rust project which simulates a 2d n-body system.
+A demo is available on https://villevilli.github.io/n-body
+
+## Previous Projects
 ### [GTFS-Heatmap](https://github.com/villevilli/gtfs-heatmap)
 A project which generates and shows a travel time heatmap derived from hsls gtfs data.
 
-The project contains:
+The project is made up of a:
 - Back end web-server develpoed using rust and the rocket library
 - Rust library for generating heatmap tiles
 - Fronted developed with svelte and typescript
 
-## Previous Projects
 ### [Nicemc page](https://github.com/villevilli/nicemc-page)
 A simple markdown blogging platform created with svelte using mongodb as its database.  
 ### [rost](https://github.com/villevilli/rost)
