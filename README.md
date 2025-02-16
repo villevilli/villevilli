@@ -4,6 +4,9 @@ I am a hobbyist programmer
 I'm currently studying at Otaniemi upper secondary school focusing on stem subjects. 
 
 ## Current Projects
+### [Cubiomes-rs](https://github.com/villevilli/cubiomes-rs)
+A safe rust wrapper for the cubiomes library
+
 ### [N-Body](https://github.com/villevilli/n-body)
 A bevy and rust project which simulates a 2d n-body system.
 A demo is available on https://villevilli.github.io/n-body
