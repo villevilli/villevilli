@@ -1,7 +1,7 @@
 # Ville Kujala
 Hello
 I am a hobbyist programmer
-I'm currently studying at Otaniemi upper secondary school focusing on stem subjects. 
+I'm currently studying at Aalto University
 
 ## Current Projects
 ### [Cubiomes-rs](https://github.com/villevilli/cubiomes-rs)
